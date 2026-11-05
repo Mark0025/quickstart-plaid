@@ -1,5 +1,11 @@
 # Plaid quickstart
 
+## About
+- **What it is:** A copy of Plaid's official sample app for connecting bank accounts through Plaid's API.
+- **Business:** learning
+- **Status:** inactive since 2024-08
+- **Source:** agent research 2026-11-04
+
 This repository accompanies Plaid's [**quickstart guide**][quickstart].
 
 Here you'll find full example integration apps using our [**client libraries**][libraries].
